@@ -18,10 +18,15 @@ pip install PyInstaller
 
 Make Executable Application - 
 
+
 WITH TERMINAL - python -m PyInstaller app.py --onefile
+
+
 WITHOUT TERMINAL - python -m PyInstaller app.pyw --onefile
 
 If you dont want the Terminal Window
+
+
 Extension -  pyw 
 example - app.pyw
 
