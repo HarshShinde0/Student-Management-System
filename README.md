@@ -91,27 +91,11 @@ An already built executable application is also provided in the repo for testing
 
 ---
 
-## ❓ Support
-
-If you encounter any issues during installation or setup, please reach out:
-
-- **Discord:** [Join Here](https://discord.com/invite/T43yZbC3Fc)
-- **Slack:** [Join Here](https://join.slack.com/t/strendev/shared_invite/zt-2ay6rnd8l-Quy0Q62ivIAfCCJfXOLaYg)
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaK8Um6HgZWVOfuCjV3s)
-
 ---
-
-## 🌐 Follow Us
-
-- **GitHub:** [Stren-Dev](https://github.com/Stren-Dev)
-- **LinkedIn:** [StrenDev](https://www.linkedin.com/company/strendev/)
 - **YouTube:** [Tutorial Video](https://youtu.be/PCo9FDCbsEM)
 
 ---
 
 ## 🙏 Credits
 
-Created by HKS  
-Special thanks to the Stren-Dev community!
-
----
+Created by Harsh 
